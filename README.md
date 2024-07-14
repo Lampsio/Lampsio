@@ -27,16 +27,15 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
     <td>HTML</td>
     <td>CSS</td>
     <td>JavaScript</td>
-  </tr>
-  <tr>
     <td>React</td>
     <td>Vue.js</td>
-    <td>FastAPI</td>
   </tr>
   <tr>
     <td>Django</td>
     <td>Spring Boot</td>
     <td>ASP.NET (C#)</td>
+    <td>FastAPI</td>
+     <td>Three.js</td>
   </tr>
 </table>
 
