@@ -6,37 +6,81 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 ### Programming Languages
 
+<div align="center">
 
+<table>
+  <tr>
+    <td>Python</td>
+    <td>Java</td>
+    <td>C#</td>
+  </tr>
+</table>
 
-| Python | Java | C# |
-|--------|------|----|
+</div>
 
 ### Web Development
 
+<div align="center">
 
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>Vue.js</td>
+    <td>FastAPI</td>
+  </tr>
+  <tr>
+    <td>Django</td>
+    <td>Spring Boot</td>
+    <td>ASP.NET (C#)</td>
+  </tr>
+</table>
 
-| HTML | CSS | JavaScript |
-|------|-----|------------|
-| React | Vue.js | FastAPI |
-|------|-----|------------|
-| Django | Spring Boot | ASP.NET (C#) |
-|------|-----|------------|
-
+</div>
 
 ### Databases
 
+<div align="center">
 
+<table>
+  <tr>
+    <td>MongoDB</td>
+    <td>PostgreSQL</td>
+    <td>Firebase</td>
+    <td>Redis</td>
+  </tr>
+</table>
 
-| MongoDB | PostgreSQL | Firebase | Redis |
-|---------|------------|----------|-------|
-
+</div>
 
 ### AI & Machine Learning
 
+<div align="center">
 
+<table>
+  <tr>
+    <td>Large Language Models (LLMs)</td>
+    <td>AI Program Creation</td>
+  </tr>
+</table>
 
-| Large Language Models (LLMs) | AI Program Creation |
-|------------------------------|---------------------|
+</div>
+
+### Other Tools
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>Streamlit</td>
+  </tr>
+</table>
+
+</div>
 
 
 
