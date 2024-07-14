@@ -18,7 +18,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 | HTML | CSS | JavaScript |
 |------|-----|------------|
 | React | Vue.js | FastAPI |
+|------|-----|------------|
 | Django | Spring Boot | ASP.NET (C#) |
+|------|-----|------------|
 
 
 ### Databases
