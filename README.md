@@ -9,40 +9,36 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 | Python | Java | C# |
 |--------|------|----|
 
-</div>
-
 ### Web Development
 
-<div align="center">
+
 
 | HTML | CSS | JavaScript |
 |------|-----|------------|
 | React | Vue.js | FastAPI |
 | Django | Spring Boot | ASP.NET (C#) |
 
-</div>
 
 ### Databases
 
-<div align="center">
+
 
 | MongoDB | PostgreSQL | Firebase | Redis |
 |---------|------------|----------|-------|
 
-</div>
 
 ### AI & Machine Learning
 
-<div align="center">
+
 
 | Large Language Models (LLMs) | AI Program Creation |
 |------------------------------|---------------------|
 
-</div>
+
 
 ### Other Tools
 
-<div align="center">
+
 
 | Streamlit |
 |-----------|
