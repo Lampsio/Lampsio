@@ -77,18 +77,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 <table>
   <tr>
     <td>Streamlit</td>
+    <td>Trello</td>
+    <td>Docker</td>
+    <td>Git</td>
   </tr>
 </table>
 
 </div>
 
-
-
-### Other Tools
-
-
-
-| Streamlit |
-|-----------|
-
-</div>
