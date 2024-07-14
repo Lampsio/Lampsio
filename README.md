@@ -90,6 +90,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
     <td>Git</td>
     <td>Linux</td>
     <td>Swagger</td>
+    <td>Postman</td>
   </tr>
 </table>
 
