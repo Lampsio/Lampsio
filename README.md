@@ -89,6 +89,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
     <td>Docker</td>
     <td>Git</td>
     <td>Linux</td>
+    <td>Swagger</td>
   </tr>
 </table>
 
