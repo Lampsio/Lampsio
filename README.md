@@ -88,6 +88,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
     <td>Trello</td>
     <td>Docker</td>
     <td>Git</td>
+    <td>Linux</td>
   </tr>
 </table>
 
