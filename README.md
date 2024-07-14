@@ -35,7 +35,10 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
     <td>Spring Boot</td>
     <td>ASP.NET (C#)</td>
     <td>FastAPI</td>
-     <td>Three.js</td>
+    <td>Three.js</td>
+  </tr>
+   <tr>
+    <td>Bootstrap</td>
   </tr>
 </table>
 
