@@ -65,7 +65,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
     <td>Large Language Models (LLMs)</td>
     <td>Tensorflow</td>
     <td>CrewAI</td>
+  </tr>
+  <tr>
     <td>LangChain</td>
+    <td>HuggingFace</td>
+    <td>Ollama</td>
   </tr>
 </table>
 
