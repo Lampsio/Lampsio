@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 <div align="center">
 
-<table style="border: 2px solid black; border-collapse: collapse; width: 50%;">
+<table>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">Python</td>
-    <td style="border: 1px solid black; padding: 8px;">Java</td>
-    <td style="border: 1px solid black; padding: 8px;">C#</td>
+    <td>Python</td>
+    <td>Java</td>
+    <td>C#</td>
   </tr>
 </table>
 
@@ -22,21 +22,21 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 <div align="center">
 
-<table style="border: 2px solid black; border-collapse: collapse; width: 75%;">
+<table>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">HTML</td>
-    <td style="border: 1px solid black; padding: 8px;">CSS</td>
-    <td style="border: 1px solid black; padding: 8px;">JavaScript</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">React</td>
-    <td style="border: 1px solid black; padding: 8px;">Vue.js</td>
-    <td style="border: 1px solid black; padding: 8px;">FastAPI</td>
+    <td>React</td>
+    <td>Vue.js</td>
+    <td>FastAPI</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">Django</td>
-    <td style="border: 1px solid black; padding: 8px;">Spring Boot</td>
-    <td style="border: 1px solid black; padding: 8px;">ASP.NET (C#)</td>
+    <td>Django</td>
+    <td>Spring Boot</td>
+    <td>ASP.NET (C#)</td>
   </tr>
 </table>
 
@@ -46,12 +46,12 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 <div align="center">
 
-<table style="border: 2px solid black; border-collapse: collapse; width: 50%;">
+<table>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">MongoDB</td>
-    <td style="border: 1px solid black; padding: 8px;">PostgreSQL</td>
-    <td style="border: 1px solid black; padding: 8px;">Firebase</td>
-    <td style="border: 1px solid black; padding: 8px;">Redis</td>
+    <td>MongoDB</td>
+    <td>PostgreSQL</td>
+    <td>Firebase</td>
+    <td>Redis</td>
   </tr>
 </table>
 
@@ -61,12 +61,12 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 <div align="center">
 
-<table style="border: 2px solid black; border-collapse: collapse; width: 75%;">
+<table>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">Large Language Models (LLMs)</td>
-    <td style="border: 1px solid black; padding: 8px;">Tensorflow</td>
-    <td style="border: 1px solid black; padding: 8px;">CrewAI</td>
-    <td style="border: 1px solid black; padding: 8px;">LangChain</td>
+    <td>Large Language Models (LLMs)</td>
+    <td>Tensorflow</td>
+    <td>CrewAI</td>
+    <td>LangChain</td>
   </tr>
 </table>
 
@@ -76,12 +76,12 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 <div align="center">
 
-<table style="border: 2px solid black; border-collapse: collapse; width: 50%;">
+<table>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">Streamlit</td>
-    <td style="border: 1px solid black; padding: 8px;">Trello</td>
-    <td style="border: 1px solid black; padding: 8px;">Docker</td>
-    <td style="border: 1px solid black; padding: 8px;">Git</td>
+    <td>Streamlit</td>
+    <td>Trello</td>
+    <td>Docker</td>
+    <td>Git</td>
   </tr>
 </table>
 
