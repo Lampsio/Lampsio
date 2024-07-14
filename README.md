@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with a k
 
 ### AI & Machine Learning
 
-| Large Language Models (LLMs) | AI Program Creation |
-|------------------------------|---------------------|
+| Large Language Models (LLMs) | LangChain | CrewAI |
+|------------------------------|---------------------|---------------------|
 
 ### Other Tools
 
